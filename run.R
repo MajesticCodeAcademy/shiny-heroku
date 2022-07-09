@@ -1,6 +1,6 @@
-source("app/global.R")
-source("app/ui.R")
-source("app/server.R")
+source("global.R")
+source("ui.R")
+source("server.R")
 
 port <- Sys.getenv('PORT')
 
