@@ -1,0 +1,15 @@
+{
+  "name": "shiny-heroku",
+  "stack": "container",
+  "description": "Demo Shiny App",
+  "keywords": [
+    "shiny"
+  ],
+  "repository": "https://github.com/MajesticCodeAcademy",
+  "success_url": "/",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  }
+}
