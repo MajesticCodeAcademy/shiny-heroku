@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600" width="600">
-  <g id="qrcode:https://shiny-heroku.herokuapp.com/">
+  <g id="qrcode:https://piedmont-park.herokuapp.com/">
     <rect x="0" y="0" width="600px" height="600px" style="fill:navy;"/>
     <rect x="0.00" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="20.69" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -10,10 +10,10 @@
     <rect x="103.45" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="206.90" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="0.00" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -26,10 +26,9 @@
     <rect x="0.00" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="331.03" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="248.28" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="268.97" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="351.72" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="20.69" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -40,12 +39,10 @@
     <rect x="82.76" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="248.28" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="413.79" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="41.38" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -58,11 +55,8 @@
     <rect x="124.14" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="186.21" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="206.90" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="268.97" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="351.72" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="62.07" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -76,7 +70,7 @@
     <rect x="206.90" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="331.03" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="82.76" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -87,12 +81,15 @@
     <rect x="0.00" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="289.66" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="393.10" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="413.79" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="103.45" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="124.14" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -116,11 +113,14 @@
     <rect x="537.93" y="124.14" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="558.62" y="124.14" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="124.14" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="289.66" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="351.72" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="413.79" y="144.83" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="20.69" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="82.76" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -129,218 +129,206 @@
     <rect x="144.83" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="206.90" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="248.28" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="413.79" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="434.48" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="475.86" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="558.62" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="165.52" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="82.76" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="0.00" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="41.38" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="144.83" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="351.72" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="434.48" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="475.86" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="496.55" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="537.93" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="558.62" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="62.07" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="82.76" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="579.31" y="186.21" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="0.00" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="165.52" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="248.28" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="268.97" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="289.66" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="331.03" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="351.72" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="434.48" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="455.17" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="517.24" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="579.31" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="558.62" y="206.90" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="20.69" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="62.07" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="82.76" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="103.45" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="206.90" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="248.28" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="413.79" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="537.93" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="579.31" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="0.00" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="165.52" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="289.66" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="455.17" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="496.55" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="558.62" y="227.59" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="62.07" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="82.76" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="248.28" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="268.97" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="413.79" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="434.48" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="455.17" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="579.31" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="82.76" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="165.52" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="186.21" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="351.72" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="496.55" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="517.24" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="537.93" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="558.62" y="248.28" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="0.00" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="41.38" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="144.83" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="268.97" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="351.72" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="455.17" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="434.48" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="475.86" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="517.24" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="558.62" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="537.93" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="268.97" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="41.38" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="62.07" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="82.76" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="165.52" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="331.03" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="351.72" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="455.17" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="496.55" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="517.24" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="248.28" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="268.97" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="413.79" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="434.48" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="537.93" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="558.62" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="579.31" y="289.66" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="82.76" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="62.07" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="186.21" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="206.90" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="289.66" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="393.10" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="413.79" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="434.48" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="496.55" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="310.34" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="20.69" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="82.76" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="103.45" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="144.83" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="186.21" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="227.59" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="434.48" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="496.55" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="517.24" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="331.03" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="0.00" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="41.38" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="62.07" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="82.76" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="103.45" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="351.72" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="351.72" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="20.69" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="41.38" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="62.07" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="82.76" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="289.66" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="144.83" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="186.21" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="351.72" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="393.10" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="455.17" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="434.48" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="475.86" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="517.24" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="558.62" y="372.41" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="62.07" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="144.83" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="186.21" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="206.90" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="227.59" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="289.66" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="331.03" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="413.79" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="434.48" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="475.86" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="537.93" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="558.62" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="41.38" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="517.24" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="579.31" y="393.10" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="82.76" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="103.45" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="144.83" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="186.21" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="393.10" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="372.41" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="434.48" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="475.86" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="517.24" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="537.93" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="558.62" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="413.79" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="186.21" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="206.90" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="227.59" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="248.28" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="310.34" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="537.93" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="558.62" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="579.31" y="434.48" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="20.69" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="41.38" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -352,8 +340,10 @@
     <rect x="186.21" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="393.10" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="455.17" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -366,12 +356,11 @@
     <rect x="227.59" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="248.28" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="268.97" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="310.34" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="331.03" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="372.41" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="558.62" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="475.86" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="41.38" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -379,9 +368,8 @@
     <rect x="82.76" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="124.14" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="165.52" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="227.59" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
+    <rect x="206.90" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="289.66" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="310.34" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="372.41" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="393.10" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -391,7 +379,6 @@
     <rect x="496.55" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="558.62" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="579.31" y="496.55" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="517.24" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="41.38" y="517.24" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -422,8 +409,6 @@
     <rect x="268.97" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="351.72" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="413.79" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="496.55" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="558.62" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="0.00" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="20.69" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
@@ -443,7 +428,6 @@
     <rect x="372.41" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="434.48" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="455.17" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
-    <rect x="475.86" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="496.55" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="517.24" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
     <rect x="537.93" y="579.31" width="20.69" height="20.69" stroke="gold" stroke-width="0.2" stroke-linecap="butt" fill="gold"/>
