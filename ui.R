@@ -1,9 +1,21 @@
-ui <- fluidPage(
-    titlePanel("Piedmont PArk Activity App"),
+ui <- fluidPage(theme = shinytheme("slate"),
+                br(),
+                br(),
+                fluidRow(
+                  column(12,align = "center",
+    titlePanel("Piedmont Park Activity App")
+                )),
+    br(),
+    fluidRow(
+    column(12,align = "center",
     selectInput("activity",
-                "What activity brouht you to the beltline today?",
-                choices = c("walk","run","sport","other")),
-    actionButton("send","Send us your your answer!"),
+                "What activity brought you to the beltline/park today?",
+                choices = c("walk","run","sport","other"))
+    )),
+    fluidRow(
+    column(12,align = "center",
+    actionButton("send","Send us your your answer!")
+    )),
     shinybrowser::detect(),
     tags$script('
       $(document).ready(function () {
