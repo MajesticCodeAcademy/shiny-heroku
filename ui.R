@@ -6,7 +6,7 @@ ui <- fluidPage(theme = shinytheme("slate"),
     titlePanel("Ponce City Market (PCM) Activity")
                 )),
     fluidRow(
-      column(12,align = "center",img(src='https://assets3.thrillist.com/v1/image/2859901/1200x600/scale;', align = "center", height="50%", width="50%"))
+      column(12,align = "center",img(src='https://assets3.thrillist.com/v1/image/2859901/1200x600/scale;', align = "center", height="40%", width="40%"))
     ),
     br(),
     fluidRow(
