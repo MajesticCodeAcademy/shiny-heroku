@@ -3,14 +3,17 @@ ui <- fluidPage(theme = shinytheme("slate"),
                 br(),
                 fluidRow(
                   column(12,align = "center",
-    titlePanel("Piedmont Park Activity App")
+    titlePanel("Ponce City Market Activity")
                 )),
     br(),
     fluidRow(
     column(12,align = "center",
     selectInput("activity",
-                "What activity brought you to the beltline/park today?",
-                choices = c("walk","run","sport","other"))
+                "What activity brought you to PCM today?",
+                choices = c("Eat","Drink","Shop","Walk")),
+    selectInput("often",
+                "How often do you come to PCM?",
+                choices = c("Often","Sometimes","Never (First time)")),
     )),
     fluidRow(
     column(12,align = "center",

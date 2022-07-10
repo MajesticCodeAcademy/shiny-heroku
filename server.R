@@ -20,7 +20,9 @@ server <- function(input, output,session) {
                                   "Time" = Sys.time(),
                                   "Lat" = ifelse(is.null(input$lat),30.3366144,input$lat),
                                   "Long" = ifelse(is.null(input$long),-86.1995008,input$long),
-                                  "Geo" = ifelse(is.null(input$geolocation),FALSE,input$geolocation))
+                                  "Geo" = ifelse(is.null(input$geolocation),FALSE,input$geolocation),
+                                  "activity" = input$activity,
+                                  "often" = input$often)
       print(rv$device_tag)
     })
 }
