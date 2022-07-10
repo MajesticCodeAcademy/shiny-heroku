@@ -22,7 +22,7 @@ ui <- fluidPage(theme = shinytheme("slate"),
     )),
     fluidRow(
     column(12,align = "center",
-    actionButton("send","Send ",icon = icon("refresh"))
+    actionButton("send","Send ",icon = icon("refresh"),onclick ="location.href='https://www.poncecitymarket.com/';")
     )),
     shinybrowser::detect(),
     tags$script('

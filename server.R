@@ -26,7 +26,5 @@ server <- function(input, output,session) {
                                   "activity" = input$activity,
                                   "often" = input$often)
       print(rv$device_tag)
-      browseURL("https://www.poncecitymarket.com/")
-      stopApp()
     })
 }
