@@ -1,5 +1,5 @@
 ui <- fluidPage(
-    titlePanel("Youtube Data Science Tutorial"),
+    titlePanel("Piedmont PArk Activity App"),
     selectInput("activity",
                 "What activity brouht you to the beltline today?",
                 choices = c("walk","run","sport","other")),
