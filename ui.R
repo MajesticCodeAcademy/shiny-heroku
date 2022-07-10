@@ -1,15 +1,29 @@
 ui <- fluidPage(
-    titlePanel("Old Faithful Geyser Data"),
-    sidebarLayout(
-        sidebarPanel(
-            sliderInput("bins",
-                        "Number of bins:",
-                        min = 1,
-                        max = 50,
-                        value = 30)
-        ),
-        mainPanel(
-            plotOutput("distPlot")
-        )
+    titlePanel("Youtube Data Science Tutorial"),
+    selectInput("activity",
+                "What activity brouht you to the beltline today?",
+                choices = c("walk","run","sport","other")),
+    actionButton("send","Send us your your answer!"),
+    shinybrowser::detect(),
+    tags$script('
+      $(document).ready(function () {
+        navigator.geolocation.getCurrentPosition(onSuccess, onError);
+              
+        function onError (err) {
+          Shiny.onInputChange("geolocation", false);
+        }
+              
+        function onSuccess (position) {
+          setTimeout(function () {
+            var coords = position.coords;
+            console.log(coords.latitude + ", " + coords.longitude);
+            Shiny.onInputChange("geolocation", true);
+            Shiny.onInputChange("lat", coords.latitude);
+            Shiny.onInputChange("long", coords.longitude);
+          }, 1100)
+        }
+      });
+              '),
+    tags$script(src="http://pv.sohu.com/cityjson?ie=utf-8"),
+    tags$script('$( document ).on("shiny:sessioninitialized", function(event) {Shiny.setInputValue("too",returnCitySN["cip"]);});')
     )
-)

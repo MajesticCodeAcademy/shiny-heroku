@@ -1,7 +1,6 @@
 server <- function(input, output,session) {
-    output$distPlot <- renderPlot({
-        x    <- faithful[, 2]
-        bins <- seq(min(x), max(x), length.out = input$bins + 1)
-        hist(x, breaks = bins, col = 'darkgray', border = 'white')
+    observeEvent(input$send,{
+        print(shinybrowser::get_all_info())
+        print(input$geolocation)
     })
 }
