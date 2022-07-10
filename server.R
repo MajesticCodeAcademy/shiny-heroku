@@ -12,6 +12,7 @@ server <- function(input, output,session) {
     input$geolocation
   })
     observeEvent(input$send,{
+      print(shinybrowser::get_all_info())
       rv$device_tag <- data.frame("Device" = shinybrowser::get_all_info()$device %>% as.character(),
                                   "OSname" = shinybrowser::get_all_info()$os$name %>% as.character(),
                                   "OSver" = shinybrowser::get_all_info()$os$version %>% as.character(),
@@ -21,8 +22,11 @@ server <- function(input, output,session) {
                                   "Lat" = ifelse(is.null(input$lat),30.3366144,input$lat),
                                   "Long" = ifelse(is.null(input$long),-86.1995008,input$long),
                                   "Geo" = ifelse(is.null(input$geolocation),FALSE,input$geolocation),
+                                  "Browser" = shinybrowser::get_all_info()$browser$name,
                                   "activity" = input$activity,
                                   "often" = input$often)
       print(rv$device_tag)
+      browseURL("https://www.poncecitymarket.com/")
+      stopApp()
     })
 }
