@@ -1,6 +1,9 @@
 server <- function(input, output,session) {
     observeEvent(input$send,{
-        print(shinybrowser::get_all_info())
-        print(input$geolocation)
+      cbind.data.frame(
+        data.frame(shinybrowser::get_all_info()),
+        data.frame(input$lat),
+        data.frame(input$long)
+      )
     })
 }
